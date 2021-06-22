@@ -1,3 +1,11 @@
+/*
+Covid 19 data set explored using SQL (SSMS) 
+Skills that i have used : Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Link to the data set :https://ourworldindata.org/covid-deaths
+
+*/
+
+
 SELECT *
 FROM PortofolioProject1..CovidDeaths
 ORDER BY 1,2
